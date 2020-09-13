@@ -1,1 +1,0 @@
-[![XxBoomer GitHub stats](https://github-readme-stats.vercel.app/api?username=XxBoomer&show_icons=true&hide_border=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=XxBoomer&show_icons=true&hide_border=true&theme=dracula)
